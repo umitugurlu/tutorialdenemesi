@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "ScrollText": "github:makecode-extensions/scrolltext#v1.2.0"
     },
     "files": [
         "main.blocks",
